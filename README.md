@@ -1,1 +1,1 @@
-# -Polygon-Triangulation
+# Polygon Triangulation
